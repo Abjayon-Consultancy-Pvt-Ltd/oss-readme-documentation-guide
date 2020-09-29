@@ -14,3 +14,5 @@ It contains all the basic requirements and guide for all OSS projects in the org
 - [x] Code of Conduct (in README)
 - [x] License (in README)
 
+NOTE: Some items from the above check list can be optional depending on the type of project.
+
