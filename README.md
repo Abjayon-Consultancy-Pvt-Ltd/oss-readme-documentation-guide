@@ -1,4 +1,4 @@
-# oss-readme-documentation-guide
+# OSS Readme and Documentation Guide
 It contains all the basic requirements and guide for all OSS projects in the organization.It should be ensured that project has all the items mentioned in this guide.
 
 ### All projects should have everything mentioned below,
