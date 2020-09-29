@@ -19,7 +19,7 @@ It contains all the basic requirements and guide for all OSS projects in the org
 - [x] Created by (in README)
 - [x] License (in README)
 
-NOTE: Some items from the above check list can be optional depending on the type of project.
+NOTE: Some items from the above check list can be optional depending on the type of project. Add only items which are required in your project.
 
 The items from the above checklist is explained below with example projects to help you understand and get idea of how to create it.
 
