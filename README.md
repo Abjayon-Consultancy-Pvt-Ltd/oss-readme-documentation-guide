@@ -12,7 +12,6 @@ It contains all the basic requirements and guide for all OSS projects in the org
 - [x] Technical details about the project (in README)
 - [x] Coding standards
 - [x] Road Map, monthly iteration plans
-- [x] Coding standards (quick links)
 - [x] Contributing guidelines
 - [x] Code of Conduct (in README)
 - [x] Core Team members (in README)
@@ -55,4 +54,14 @@ Example of key features from https://github.com/sindresorhus/Plash
 * Automatically deactivate while on battery
 * Audio is muted
 * Single image will be aspect-filled to your screen
+
+### Requirements for running the project
+
+It should have detailed explanation about the dependencies and environmental setup to successful run the project by users.It should be beginner friendly and if there is link for the resources used should be provided, for users to read more about. For most of the times it follows the structure below, 
+* Dependencies
+* Installing
+* Running the App.
+
+Other steps can also be added depending on the project requirements.
+For reference please have a look at the requirements from this project https://github.com/PatrickJS/angular-starter
  
