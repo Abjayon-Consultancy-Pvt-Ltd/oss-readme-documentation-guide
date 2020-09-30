@@ -37,4 +37,22 @@ The items from the above checklist is explained below with example projects to h
 ------------ |
 https://opensource.com/article/20/7/docsify-github-pages
 https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/
+
+
+### Key Featues
+
+This section should mention all the highlights and main components of the project.These highlights should be in bullet points, all the details of these components should be documentataion.
+
+Example of key features from https://github.com/sindresorhus/Plash
+* Show a remote or local website
+* Interact with the website (“Browse Mode”)
+* Automatically reload the website at a custom interval
+* Show the website on a different display
+* Invert website colors (fake dark mode)
+* Add custom CSS to the website
+* Lower the opacity
+* Transparent background
+* Automatically deactivate while on battery
+* Audio is muted
+* Single image will be aspect-filled to your screen
  
