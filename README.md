@@ -9,7 +9,6 @@ It contains all the basic requirements and guide for all OSS projects in the org
 - [x] Key Features of the project (in README)
 - [x] Requirements for running the project (in README)
 - [x] Quick start guide  (in README)
-- [x] Technical details about the project (in README)
 - [x] Coding standards
 - [x] Road Map, monthly iteration plans
 - [x] Contributing guidelines
@@ -64,4 +63,18 @@ It should have detailed explanation about the dependencies and environmental set
 
 Other steps can also be added depending on the project requirements.
 For reference please have a look at the requirements from this project https://github.com/PatrickJS/angular-starter
+
+### Quick start guide
+
+Quick start guide is really helpful for users who doesnt want to understand the project completely but just want to trail and see the working of the project.
+It should have the steps required in brief to quickly install and start running the project.
+
+Please have a look at this project quick start guide as an example, https://github.com/udayvunnam/xng-breadcrumb or this https://github.com/PatrickJS/angular-starter
+
+### Coding standards
+
+Properly defined coding standards are really important to maintain quality of the project. It is really important that the standards are discussed in advanced and standards are documented well. Coding standard documentation should be done in another file separately, not to be added in main README.
+
+Please have a look at this example https://github.com/Microsoft/vscode/wiki/Coding-Guidelines
+
  
