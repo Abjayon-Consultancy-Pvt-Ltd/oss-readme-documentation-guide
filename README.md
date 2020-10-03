@@ -77,4 +77,21 @@ Properly defined coding standards are really important to maintain quality of th
 
 Please have a look at this example https://github.com/Microsoft/vscode/wiki/Coding-Guidelines
 
- 
+### Road Map, monthly iteration plans
+
+All the new features should be well planned for a time period. This will help to have a vision in mind about the project path. All the features devleoped till date should also be tracked.
+
+Please the examples for Road map and monthly iteration plan.
+
+Type | Link
+---- | ----
+Road Map | https://github.com/microsoft/vscode/wiki/Roadmap
+Monthly Iterations | https://github.com/microsoft/vscode/wiki/Iteration-Plans
+
+### Contributing guidelines
+
+This seciton should have all details for the users to start contributing. The contribution can be from any one and for lot of things (issue, documentation , code etc).
+contibutting details should be in another file named contributing.md . All the details should be easy enough for a beginner to start contributing.
+
+A very good example of contributing guide line is https://github.com/ngx-builders/ngx-bulma/blob/main/CONTRIBUTING.md
+
